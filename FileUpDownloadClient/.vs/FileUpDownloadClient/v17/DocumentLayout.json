@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PVA_3\\source\\repos\\FileUpDownloadClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CBFC19-607B-4B53-9A94-2EFE58925017}|FileUpDownloadClient\\FileUpDownloadClient.csproj|c:\\users\\pva_3\\source\\repos\\fileupdownloadclient\\fileupdownloadclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CBFC19-607B-4B53-9A94-2EFE58925017}|FileUpDownloadClient\\FileUpDownloadClient.csproj|solutionrelative:fileupdownloadclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PVA_3\\source\\repos\\FileUpDownloadClient\\FileUpDownloadClient\\Program.cs",
+              "RelativeDocumentMoniker": "FileUpDownloadClient\\Program.cs",
+              "ToolTip": "C:\\Users\\PVA_3\\source\\repos\\FileUpDownloadClient\\FileUpDownloadClient\\Program.cs",
+              "RelativeToolTip": "FileUpDownloadClient\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:02:10.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

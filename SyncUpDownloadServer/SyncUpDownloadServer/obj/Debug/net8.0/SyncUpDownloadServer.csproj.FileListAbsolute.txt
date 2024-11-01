@@ -1,0 +1,14 @@
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\bin\Debug\net8.0\SyncUpDownloadServer.exe
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\bin\Debug\net8.0\SyncUpDownloadServer.deps.json
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\bin\Debug\net8.0\SyncUpDownloadServer.runtimeconfig.json
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\bin\Debug\net8.0\SyncUpDownloadServer.dll
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\bin\Debug\net8.0\SyncUpDownloadServer.pdb
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.AssemblyInfoInputs.cache
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.AssemblyInfo.cs
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.csproj.CoreCompileInputs.cache
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.dll
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\refint\SyncUpDownloadServer.dll
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.pdb
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\SyncUpDownloadServer.genruntimeconfig.cache
+C:\Users\PVA_3\source\repos\SyncUpDownloadServer\SyncUpDownloadServer\obj\Debug\net8.0\ref\SyncUpDownloadServer.dll

@@ -1,0 +1,14 @@
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\bin\Debug\net8.0\FileUpDownloadClient.exe
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\bin\Debug\net8.0\FileUpDownloadClient.deps.json
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\bin\Debug\net8.0\FileUpDownloadClient.runtimeconfig.json
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\bin\Debug\net8.0\FileUpDownloadClient.dll
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\bin\Debug\net8.0\FileUpDownloadClient.pdb
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.AssemblyInfoInputs.cache
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.AssemblyInfo.cs
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.csproj.CoreCompileInputs.cache
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.dll
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\refint\FileUpDownloadClient.dll
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.pdb
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\FileUpDownloadClient.genruntimeconfig.cache
+C:\Users\PVA_3\source\repos\FileUpDownloadClient\FileUpDownloadClient\obj\Debug\net8.0\ref\FileUpDownloadClient.dll
